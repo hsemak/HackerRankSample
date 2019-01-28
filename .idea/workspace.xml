@@ -2,52 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1260037-4916-4d56-b86d-6c87188905d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/BirthDayCalendar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/DesignTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/DiagnoalDifference$Month.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/DiagnoalDifference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/DistinctPairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/ISPossible.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/JumpingClouds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/PrintStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/RepeatedSign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/TimeConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/pairofsocks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/plusMinus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/sampletest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/out/production/untitled/simpleClasses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/BirthDayCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BirthDayCalendar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/DesignTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/DiagnoalDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiagnoalDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/DistinctPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DistinctPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/ISPossible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ISPossible.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/JumpingClouds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JumpingClouds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/PrintStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrintStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/RepeatedSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RepeatedSign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/TimeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TimeConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/pairofsocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pairofsocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/plusMinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/plusMinus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/sampletest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sampletest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/simpleClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simpleClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRankSample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HackerRankSample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/BirthDayCalendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/DesignTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/DiagnoalDifference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/DistinctPairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/ISPossible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/JumpingClouds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/PrintStairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/RepeatedSign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/TimeConversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/pairofsocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/plusMinus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/sampletest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/main/java/simpleClasses.java" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/HackerRank/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DesignTest.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/main/java/DesignTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DistinctPairs.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DistinctPairs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
@@ -58,22 +58,67 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BirthDayCalendar.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RepeatedSign.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/sampletest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="102">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerRankSample.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="44" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pairofsocks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-476">
+              <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BirthDayCalendar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,6 +127,28 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HackerRank/pom.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="15" />
@@ -103,10 +170,6 @@
               <item name="HackerRankSample" type="b2602c69:ProjectViewProjectNode" />
               <item name="HackerRankSample" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HackerRankSample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -114,13 +177,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548031357983" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548636306941" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gayak\git\HackerRankSample\HackerRank\src\main\java" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gayak\git\HackerRankSample" />
     </key>
@@ -136,6 +203,20 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="HackerRankSample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -153,32 +234,33 @@
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1260" height="640" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25416666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32874015" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32874015" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32874015" />
+      <window_info anchor="bottom" id="Problems" order="8" weight="0.32874015" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32874015" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32874015" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,10 +288,32 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/DesignTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DistinctPairs.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -222,8 +326,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BirthDayCalendar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        <state relative-caret-position="68">
+          <caret line="7" column="21" selection-start-line="7" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -232,8 +336,106 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RepeatedSign.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DiagnoalDifference.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/src/main/java/BirthDayCalendar.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/src/main/java/DistinctPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/src/main/java/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DistinctPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DesignTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRankSample.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BirthDayCalendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pairofsocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sampletest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -294,6 +496,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
